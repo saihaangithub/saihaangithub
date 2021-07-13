@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there Github👋
+
+My name is Saihaan Garasia and I am a chemical engineering student at the University of Waterloo. 
 
 <!--
 **saihaangithub/saihaangithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
